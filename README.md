@@ -1,8 +1,8 @@
 ---
-title: Fun with GitBooks
 description: Trying out GitBooks.io
 ---
 
-# So Far?
+# Fun with GitBooks
 
+## So Far?
 So far it's pretty cool!
