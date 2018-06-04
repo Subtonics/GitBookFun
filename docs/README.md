@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fun with GitBooks](../README.md)
+* [Fun with Git Books](../README.md)
 * [Aptify](../aptify/README.md)
   * [Desktop Client](../aptify/desktop-client.md)
   * [Web Client](../aptify/web-client.md)

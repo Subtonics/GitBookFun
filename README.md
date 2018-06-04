@@ -2,7 +2,7 @@
 description: Trying out GitBooks.io
 ---
 
-# Fun with GitBooks
+# Fun with Git Books
 
 ## So Far?
 
