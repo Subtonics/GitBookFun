@@ -1,11 +1,7 @@
 ---
+title: Desktop Client
 description: The orignal win32 client.
 ---
-
-# Desktop Client
-
-
-## The orignal win32 client.
 
 ### Overview
 
